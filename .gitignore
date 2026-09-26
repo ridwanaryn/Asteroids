@@ -6,7 +6,8 @@ dist/
 wheels/
 *.egg-info
 .python-version
-
+game_state.jsonl
+game_events.jsonl
 # Virtual environments
 .venv
 
